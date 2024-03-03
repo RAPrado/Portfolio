@@ -1,2 +1,2 @@
 # Portfolio
-My projects
+This is my space to share my data science projects.
